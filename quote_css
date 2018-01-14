@@ -1,0 +1,40 @@
+
+body{
+  background:black;
+}
+p{
+  border: 3px blue;
+  background:black;
+  margin-left: auto;
+  margin-right:auto;
+  color: white;
+  text-align: center;
+  font-size: 4.0vmin;
+  text-indent: 35px;
+  font-weight: 55px;
+}
+h1{
+  font-size:25px;
+  font-style: italic;
+  color:white;
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#tweetS{
+
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  color:rgb(14, 177, 205);
+
+}
+#newquote{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15PX;
+    background-color: black;
+}
