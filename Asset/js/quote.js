@@ -26,7 +26,3 @@ $.ajax({
   $("#quote-content").html(ourContent);
 });
 });
-
-particlesJS.load('particles-js', '../Documents/Quote_machine/app.js', function() {
-
-});
